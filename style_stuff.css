@@ -1,0 +1,79 @@
+body {
+  background: springgreen;
+  
+}
+p {
+  color: orangered;
+  font-size: 25;
+  
+}
+
+ol {
+  color: darkmagenta;
+
+}
+
+img {
+  width: 500px;
+  border-style: ridge;
+  border-bottom-width: thick;
+  border-top-width: thick;
+  
+  
+  
+  
+
+}
+
+
+h2 {
+  font-weight: bolder;
+  color:orangered;
+  text-align:center;
+  font-size: 100;
+  
+}
+
+
+h3 {
+  font-weight: bolder;
+  color:firebrick;
+  text-align: center;
+  text-decoration-line: underline;
+  font-size: 76;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-family: inherit;
+  color: darkblue;
+  font-size:100;
+  background-color: mediumpurple
+}
+
+
+li {
+  color: darkblue;
+  font-size: 45;
+
+}
+
+h5 {
+  font-weight: bold;
+  text-align: left;
+  font-family: sans-serif;
+  color: darkblue;
+  font-size:50
+
+}
+
+h4 {
+  color: darkred;
+  font-size: 76;
+
+}
+
+
+<link rel="style_stuff.css" href="index.html">
+
